@@ -1,0 +1,36 @@
+title: "Symmorphic"
+email: info@symmorphic.com
+timezone: Europe/Nicosia
+baseurl: ""
+permalink: "/:title/"
+favicon: 'assets/images/favicon.ico'
+author: Savvas
+paginate: 30
+disqus: 'demowebsite'
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: compressed
+ganalytics:
+
+# Social
+social:
+  instagram: https://www.instagram.com/symmorphic
+  facebook: https://www.facebook.com/symmorphic
+  twitter: https://twitter.com/symmorphic
+
+# Plugins
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives

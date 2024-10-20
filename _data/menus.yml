@@ -1,0 +1,25 @@
+# Top Menu
+topmenu:
+
+- title: About
+  url: ""
+
+- title: Services
+  url: "services"
+
+- title: Vacancies
+  url: "vacancies/"
+
+
+# Footer Menu
+footermenu:
+
+
+- title: About
+  url: ""
+
+- title: Services
+  url: "services"
+
+- title: Vacancies
+  url: "vacancies/"
